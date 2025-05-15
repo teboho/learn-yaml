@@ -2,8 +2,8 @@
 
 Unlike HTML or the gazillon versions of XML, YAML is not a mark-up language, we don't use it to mark up content. 
 Markup languages, by definition, attempt to markup content, most of them have special tags with attributes and 
-the like to specifically markup content and present in a certain format that beautifies it or make it look much 
-more appealing and less raw than it would look if it was just in a notepad for example. In a way Markdown also 
+the like to specifically markup content and present it in a certain format that beautifies it or make it look much 
+more appealing and less raw than it would look if it was just text in a notepad for example. In a way Markdown also 
 does this, because by the time it renders, it (the content) no longer looks the exact same way it was written 
 in the text file that was written up to prepare the content. HTML and XML uses these tags and attributes to do 
 the marking up for example:
